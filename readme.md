@@ -1,1 +1,1 @@
-"ini toko Andry" 
+"ini toko kembali ke Andry" 
