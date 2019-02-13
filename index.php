@@ -10,5 +10,10 @@
 </head>
 <body>
     <h2>Ini pake git</h2>
+    <?php
+        for ($i=0; $i < 5; $i++) { 
+            echo ("for $i");
+        }
+    ?>
 </body>
 </html>
